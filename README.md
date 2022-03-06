@@ -1,3 +1,4 @@
 # Flappy_Bird
 
-installer for my flappy bird game annoying music version
+Flappy Bird main executable along with file dependencies (no installer available)
+
