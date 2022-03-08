@@ -17,3 +17,13 @@ go inside the flappy_bird-main folder (it should not have ".zip" on the end)
 you should see another zip folder called "unityplayercompressed.zip" (i had to compress it because it was too big to upload raw)
 
 follow the same procedure above for unzipping the file
+
+move "unityplayer.dll" into the same folder as "flappy bird.exe"
+
+double click "flappy bird.exe" to open it
+
+a pop up window should appear warning you there might be a virus
+
+it only does this because there is no publisher (it's really expensive to sign .exe files)
+
+click "more info" and then click "run"
